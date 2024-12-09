@@ -5,3 +5,6 @@ if x >
     print("x is greater than 5")
     else
         print("x is smaller than 5")
+    #it seems this is another story beginning
+
+print("this is a tester")
